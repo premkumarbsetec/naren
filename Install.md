@@ -1,6 +1,9 @@
 Install
 git scm
 
+> Repository
+
+
 git clone https://github.com/premkumarbsetec/naren.git
 
 git add .
@@ -12,4 +15,8 @@ git push
 
 git pull
 
+
+git branch -a
+git checkout branch name
+git switch branch name
 merge
