@@ -12,3 +12,5 @@ git commit -m 'test push'
 git push
 
 git pull
+
+merge
