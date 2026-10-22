@@ -1,6 +1,5 @@
 Install
 git scm
-clone
 
 git clone https://github.com/premkumarbsetec/naren.git
 
